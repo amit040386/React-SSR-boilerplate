@@ -1,5 +1,5 @@
 const config = {
-  apikey: 'enter-your-api-key',
+  apikey: '7a72163ad526489da198ec28149f0316',
   offlineSupport: false
 };
 
